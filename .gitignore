@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+
+# .NET compiled files
+bin
+obj
